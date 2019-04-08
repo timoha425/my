@@ -1,0 +1,25 @@
+{
+  "bots": [
+    {
+      "vk_token": "118f5ff47273592ed78a9901fd09ed509467e6cb2b0dc812f3bf84b0f1047dccb3d9d88e0eda222f2bf81",
+      "vk_use_credentials": false,
+      "vk_username": "",
+      "vk_password": "",
+      "vk_group_id": 180735282,
+      "auto_buy_enabled": false,
+      "auto_buy_interval": 60.0,
+      "auto_buy_items": [
+        "CURSOR",
+        "CPU"
+      ],
+      "auto_transfer_enabled": false,
+      "auto_transfer_to": 0,
+      "auto_transfer_when": 0,
+      "auto_transfer_percent": 1,
+      "goal": 1000000,
+      "progress_report_interval": 10
+    }
+  ],
+  "report_interval": 10,
+  "log_level": "INFO"
+}
